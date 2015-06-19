@@ -26,7 +26,6 @@ public class SingletonTest implements Runnable{
 //			cmd = Commander.getInstance();
 			cmd2 = Commander2.getInstance();
 			System.out.println(Thread.currentThread().getName()+"--"+cmd2);
-			
 //			System.out.println(Thread.currentThread().getName()+"--"+this.getInstance());
 		}
 	}

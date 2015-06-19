@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 /singleton
+=======
+/prototype
+/decorator
+/readme.txt
+>>>>>>> branch 'master' of https://github.com/corny813/design-patterns.git
