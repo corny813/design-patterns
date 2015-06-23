@@ -1,6 +1,14 @@
+<<<<<<< HEAD
+/singleton
+=======
 /prototype
 /decorator
 /readme.txt
+<<<<<<< HEAD
 /facade
 /bridge
+=======
+>>>>>>> branch 'master' of https://github.com/corny813/design-patterns.git
+/simple_factory
+>>>>>>> refs/remotes/origin/master
 /factory_method

@@ -54,8 +54,8 @@ public class Prototype implements Cloneable,Serializable{
 		}
 	}
 	
+	//深复制:对值类型/引用类型都复制
 	public Object deepClone(){
-		
 		try {
 			//流式写入对象
 			ByteArrayOutputStream bos = new ByteArrayOutputStream();
